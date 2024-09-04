@@ -30,6 +30,9 @@ body {
   gap: 20px;
   border-radius: 32px;
   background: #fff;
+  font-family: Inter;
+
+  font-weight: 700;
 }
 .burger {
   width: 30px;
